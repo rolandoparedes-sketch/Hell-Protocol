@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/ABP_blueprint.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/ABP_Ely.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/BP_Ely.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/Standard_Walk.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/Fast_Run.uasset",
+				"D:/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Keys/BP_TarjetaAzul.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Keys/BP_TargetaRoja.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Keys/Azul.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Keys/Rojo.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Keys/BP_Compuerta.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/7X/PVH3D6PRTHPCZ6F4ZD0JQ8.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/0K/QM2MO9I9UM84JI01SNTTSG.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/18/HRG7W6XX59CFT46ZMKVHXS.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/Ely_By_K_Atienza_PhysicsAsset.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/ely-vanguardsoldier-kerwinatienza_diffuse.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/ely-vanguardsoldier-kerwinatienza_glow.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/ely-vanguardsoldier-kerwinatienza_normal.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/ely-vanguardsoldier-kerwinatienza_specular.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/Ely_By_K_Atienza_Skeleton.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/ely_vanguardsoldier_kerwinatienza_M2.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/Ely_By_K_Atienza.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/Soldier/Ely_By_K_Atienza_Anim.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/Idle__2_.uasset",
+				"C:/Users/Usuario/Downloads/MyProjectBluePrint/Game/Content/Characters/AnimationSoldier/Jumping.uasset"
+			]
+		}
+	]
+}
